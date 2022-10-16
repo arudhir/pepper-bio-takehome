@@ -1,0 +1,13 @@
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4932457/pdf/FEB4-6-774.pdf — Lung signature
+https://cancer.sanger.ac.uk/signatures/signatures_v2/ — COSMIC signatures
+https://www.ncbi.nlm.nih.gov/books/NBK519578/ — Histopathology of adenocarcinomas
+https://www.researchgate.net/figure/An-example-of-a-SNP-a-DNP-and-a-TNP-between-two-DNA-sequences_fig1_44617426 — SNP, DNP, TNP
+https://academic.oup.com/ajcp/article/149/5/373/4925903 — “Acinar-Predominant Pattern Correlates With Poorer Prognosis in Invasive Mucinous Adenocarcinoma of the Lung”
+https://www.sciencedirect.com/science/article/pii/S1556086415313241 -- Multidisciplinary Lung Adenocarcinoma Classification
+https://www.uptodate.com/contents/anaplastic-lymphoma-kinase-alk-fusion-oncogene-positive-non-sma[2;2R[3;1R[>0;95;0c]10;rgb:c7f1/c7f1/c7f1]11;rgb:0000/0000/0000ll-cell-lung-cancer — Anaplastic lymphoma kinase (ALK) fusion oncogene positive non-small cell lung cancer
+
+www.ncbi.nlm.nih.gov/pmc/articles/PMC5728036/pdf/onco12290.pdf — ALK fusion cancers respond to anti-ALK targeting things
+https://www.lung.org/lung-health-diseases/lung-disease-lookup/lung-cancer/symptoms-diagnosis/biomarker-testing/alk-lung-cancer — What is ALK-positive cancer?
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776390/ — Signatures of mutational processes in human cancer
+https://pubmed.ncbi.nlm.nih.gov/18358560/ — CpG island methylator phenotype involving tumor suppressor genes located on chromosome 3p in non-small cell lung cancer
+
